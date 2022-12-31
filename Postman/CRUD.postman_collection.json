@@ -1,0 +1,144 @@
+{
+	"info": {
+		"_postman_id": "872c745f-37b5-4c52-a179-35933ef0b5db",
+		"name": "CRUD",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23161432"
+	},
+	"item": [
+		{
+			"name": "CreateProduct",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"ProductName\":\"silver phon \",\r\n    \"ProductCode\":\"ffbf7\",\r\n    \"Img\":\"gjlsffjgpopo\",\r\n    \"UnitPrice\":\"150000\",\r\n    \"Qty\":\"ffMi\",\r\n    \"TotulPrice\":\"20000\"\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BASEURL}}/CreateProduct",
+					"host": [
+						"{{BASEURL}}"
+					],
+					"path": [
+						"CreateProduct"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ReadProducts",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "{{BASEURL}}/ReadProducts",
+					"host": [
+						"{{BASEURL}}"
+					],
+					"path": [
+						"ReadProducts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateProduct",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"ProductName\":\"gold phon \",\r\n    \"ProductCode\":\"A7\",\r\n    \"Img\":\"faffagaggagagh][wsyp;'wr;yhks\",\r\n    \"UnitPrice\":\"15000\",\r\n    \"Qty\":\"ffggMi\",\r\n    \"TotulPrice\":\"200000\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BASEURL}}/updateProduct/63af5faec0e7b49a7839277b",
+					"host": [
+						"{{BASEURL}}"
+					],
+					"path": [
+						"updateProduct",
+						"63af5faec0e7b49a7839277b"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteProduct",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BASEURL}}/deleteProduct/63afd5e80828c850acc13ba5",
+					"host": [
+						"{{BASEURL}}"
+					],
+					"path": [
+						"deleteProduct",
+						"63afd5e80828c850acc13ba5"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "BASEURL",
+			"value": "http://localhost:5000/api/v1",
+			"type": "string"
+		}
+	]
+}

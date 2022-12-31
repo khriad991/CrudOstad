@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95be7bc5-8b09-46c8-8777-14571679613a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CrudOstad" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2JdNgnSSAlWX7hf84uVpkxkuRSE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Kamrul Hasan/Desktop/ECMAScript Learn Wiith Rbbbil/Day-142/client/src/Assect/img",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ECMAScript Learn Wiith Rbbbil\Day-142\client\src\Assect\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ECMAScript Learn Wiith Rbbbil\Day-142\client\src\Assect\img" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ECMAScript Learn Wiith Rbbbil\Day-142\client\src\Assect" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ECMAScript Learn Wiith Rbbbil\Day-142\src\Helper" />
+      <recent name="C:\Users\Kamrul Hasan\Desktop\ECMAScript Learn Wiith Rbbbil\Day-142\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95be7bc5-8b09-46c8-8777-14571679613a" name="Changes" comment="" />
+      <created>1672404113363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672404113363</updated>
+      <workItem from="1672404114553" duration="5470000" />
+      <workItem from="1672410967316" duration="5390000" />
+      <workItem from="1672420948387" duration="15658000" />
+      <workItem from="1672466670430" duration="20177000" />
+      <workItem from="1672497011920" duration="4720000" />
+      <workItem from="1672506706130" duration="141000" />
+      <workItem from="1672506860383" duration="877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
